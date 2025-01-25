@@ -1,0 +1,31 @@
+logg_1
+{
+    log_12
+    {
+        default
+        file_1:tf
+        file_2:tf
+    }
+    log_133131
+    {
+        %t %m
+        "for_log":i
+        file_2:
+    }
+}
+logg_2
+{
+    log_12
+    {
+        default
+        file_1:tf
+        file_2:tf
+    }
+    log_133131
+    {
+        %t %m
+        "for_log":i
+        file_2:
+    }
+}
+
